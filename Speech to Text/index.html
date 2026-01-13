@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speech to Text Converter</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    <link rel="icon" href="speech-to-text.png" type="image/png">
+</head>
+<body>
+    <div class="container">
+        <h2>Speech to Text Converter</h2>
+        <div id="result">
+            <p>Welcome to my mini-project Speech to Test Converter</p>
+            <p>Make sure you use a microphone</p>
+            <p>Talk slowly, clearly and loudly</p>
+            <p>To start using this, click on the microphone button...</p>
+        </div>
+        <div class="button-container">
+            <button onclick="startConverting()"><i class="fa fa-microphone"></i></button>
+            <button onclick="stopConverting()"><i class="fa fa-stop"></i></button>
+            <button onclick="clearAll()"><i class="fa sharp fa solid fa-eraser"></i></button>
+
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+
+</body>
+</html>
