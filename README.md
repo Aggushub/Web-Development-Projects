@@ -1,7 +1,3 @@
-Here’s a **clean, professional, emoji-balanced README.md** you can directly use for your GitHub repo 👇
-
----
-
 # 🌐 Web Development Projects
 
 Welcome to my **Web Development Projects** repository! 🚀
