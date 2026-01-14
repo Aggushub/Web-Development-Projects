@@ -74,6 +74,4 @@ A simple web application that converts spoken words into text using the browser�
 
 ---
 
-## 👨‍💻 Built to explore browser APIs and real-world voice interaction ✨
-
----
+### 👨‍💻 Built to explore browser APIs and real-world voice interaction ✨
