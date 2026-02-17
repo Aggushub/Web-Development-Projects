@@ -19,7 +19,24 @@ This repository contains a collection of hands-on web projects built to strength
 
 ### 🎤 1. Speech-to-Text Converter
 
-A web-based application that converts spoken words into text using browser speech recognition capabilities.
+A web-based application that converts spoken words into text using browser speech recognition capabilities, focusing on real-time transcription and clean UI interaction.
+
+### 🎹 2. Piano
+
+An interactive virtual piano built with HTML, CSS, and JavaScript that allows users to play musical notes using keyboard inputs while demonstrating DOM manipulation and event handling.
+
+### 🕒 3. Clock
+
+A dynamic digital/analog clock showcasing real-time date and time updates using JavaScript timing functions, designed to strengthen understanding of animations and time-based logic.
+
+### 🔗 4. LinksCard
+
+A modern profile links card inspired by social bio pages, built with responsive layouts and clean styling to practice component design and UI structuring.
+
+### ▶️ 5. YouTube
+
+A YouTube-style interface mockup focusing on layout design, responsive grids, and frontend structure to replicate a real-world media platform UI.
+
 
 ---
 
